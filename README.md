@@ -3,4 +3,4 @@
 
 - Plugins klasörü içindeki "otosilahyasak.smx" adlı dosyayı sunucunuzun plugins kısmına yüklemeniz yeterlidir.
 
-> Not : Eklenti sadece surf maplerinde çalışacak şekilde ayarlanmıştır. Ayrıca eklenti içerisinde sunucuda reklam yapabilecek herhangibir reklam bulunmamaktadır.
+> Not : Eklenti sadece surf maplerinde çalışacak şekilde ayarlanmıştır. Ayrıca eklenti içerisinde sunucuda reklam yapabilecek herhangi bir yazı bulunmamaktadır.
